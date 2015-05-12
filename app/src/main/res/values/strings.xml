@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Loteria</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="integrantes">CHAVARRIA CAMACHO JUAN ANTONIO\n
+                               DIAZ TECANTE DAVID ALEJANDRO\n
+                               GODINEZ BRIZUELA FERNANDO TONATIUH\n
+                               MELENDEZ ROSALES LUIS MAURICIO\n
+                               VILLA RIVERA VERONICA</string>
+    <string name="action_settings">Settings</string>
+    <string name="version">v1.0.0</string>
+</resources>
