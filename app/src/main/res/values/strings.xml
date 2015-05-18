@@ -12,4 +12,5 @@
     <string name="play">Jugar</string>
     <string name="griton">Ser Gritón</string>
     <string name="out">Salir</string>
+    <string name="title_activity_griton">Griton</string>
 </resources>
