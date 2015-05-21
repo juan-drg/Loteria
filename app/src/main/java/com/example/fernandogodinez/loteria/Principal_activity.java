@@ -46,4 +46,5 @@ public class Principal_activity extends ActionBarActivity{
         Intent Griton = new Intent(Principal_activity.this,Griton.class);
         startActivity(Griton);
     }
+
 }

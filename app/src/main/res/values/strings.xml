@@ -13,4 +13,6 @@
     <string name="griton">Ser Gritón</string>
     <string name="out">Salir</string>
     <string name="title_activity_griton">Griton</string>
+    <string name="next">Siguiente</string>
+    <string name="jugadas">Ver jugadas</string>
 </resources>
